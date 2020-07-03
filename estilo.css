@@ -1,0 +1,68 @@
+
+* {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+div {
+           
+            background-color: darkgreen;
+            margin: 0 auto;
+        }
+
+#uno {
+            width: 70px;
+            height: 25px;
+            border-radius: 50% 50% 0% 0%;
+            margin-top: 20px;
+        }
+
+#dos {
+            width: 120px;
+            height: 20px;
+        }
+
+#tres {
+            width: 200px;
+            height: 270px;
+        }
+
+#cuatro {
+            width: 30px;
+            height: 250px;
+        }
+
+#cinco {
+            width: 200px;
+            height: 30px;
+        }
+
+#rojo,
+#naranja,
+#verde {
+            width: 70px;
+            height: 70px;
+            border-radius: 100%;
+            position: fixed;
+            top: 80px;
+            left: 47.57%;
+            background-color: red;
+
+
+        }
+
+#naranja {
+            position: fixed;
+            top: 165px;
+            left: 47.57%;
+            background-color: orange;
+
+        }
+
+#verde {
+            position: fixed;
+            top: 250px;
+            left: 47.57%;
+            background-color: greenyellow;
+        }
